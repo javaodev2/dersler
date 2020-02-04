@@ -1,6 +1,6 @@
 package com.example.ders2;
 
-public class Odevler {
+public class OdevCozumleri {
 
     public static void main(String[] args) {
         // Odev 5
